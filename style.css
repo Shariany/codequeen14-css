@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+h1 {
+color: blue;
+text-align: center;
+}
+p{
+    font-size: 20px;
+    line-height: 2;
+}
+
+.main-heading {
+    background-color: chartreuse;
+
+}
+#paragraph-2 {
+    background-color: chartreuse;
+    color: blue;
+    margin-left: 30px;
+}
+
+.first-paragraph{
+    background-color: blue;
+    color: chartreuse;
+}
