@@ -25,3 +25,6 @@ p{
     background-color: blue;
     color: chartreuse;
 }
+image {
+    border-radius: 3rem solid #add;
+}
