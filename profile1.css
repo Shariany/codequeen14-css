@@ -1,0 +1,51 @@
+*{
+    margin: auto;
+}
+body {
+    background-color: blue;
+    }
+.sharian {
+    display: flex;
+    height: 200px;
+    width: 300px;
+    flex-direction: column;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+.photo {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: blue 10px solid;
+    box-shadow: 5px 2px red;
+}
+#slogan {
+    padding: 15px;
+}
+.heading {
+    color: red;
+}
+.vanessa {
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.anorld {
+    background-color: white;
+     margin: 5px;
+     padding: 10px;
+      border-radius: 5px;
+}
+
+.hady {
+     background-color: white;
+      margin: 5px;
+      padding: 10px;
+       border-radius: 5px;
+}
+
+
+
+
+
